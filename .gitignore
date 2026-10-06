@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+instances.csv
+zabbix_item_map.json
+sizing_output.csv

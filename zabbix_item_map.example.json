@@ -1,0 +1,14 @@
+{
+  "default": {
+    "select": "mysql.com_select",
+    "insert": "mysql.com_insert",
+    "update": "mysql.com_update",
+    "delete": "mysql.com_delete"
+  },
+  "db-pagamentos-prod": {
+    "select": "mysql.com_select",
+    "insert": "mysql.com_insert",
+    "update": "mysql.com_update",
+    "delete": "mysql.com_delete"
+  }
+}
